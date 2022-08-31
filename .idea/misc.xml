@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Owner/Workspace/MP-Fall2021-java-zyli2/app/src/main/res/layout/activity_main.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Owner/Workspace/MP-Fall2021-java-zyli2/app/src/main/res/layout/activity_restaurant.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/Owner/Workspace/MP-Fall2021-java-zyli2/app/src/main/res/layout/item_restaurant.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Owner/Workspace/MP-Fall2021-java-zyli2/app/src/main/res/layout/restaurant_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_restaurant.xml" value="0.159375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
